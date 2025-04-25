@@ -1,0 +1,236 @@
+{
+  "page": 1,
+  "total": 20,
+  "status": "ok",
+  "vehiculos": [
+    {
+      "id": 1,
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "anioFabricacion": 2022,
+      "precioBase": 15000,
+      "kilometraje": 0,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 3,
+      "descuentoPromocional": 10
+    },
+    {
+      "id": 2,
+      "marca": "Ford",
+      "modelo": "Focus",
+      "anioFabricacion": 2023,
+      "precioBase": 18000,
+      "kilometraje": 0,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 2,
+      "descuentoPromocional": 8
+    },
+    {
+      "id": 3,
+      "marca": "Kia",
+      "modelo": "Rio",
+      "anioFabricacion": 2023,
+      "precioBase": 14000,
+      "kilometraje": 0,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 4,
+      "descuentoPromocional": 5
+    },
+    {
+      "id": 4,
+      "marca": "Hyundai",
+      "modelo": "Elantra",
+      "anioFabricacion": 2022,
+      "precioBase": 16000,
+      "kilometraje": 0,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 3,
+      "descuentoPromocional": 6
+    },
+    {
+      "id": 5,
+      "marca": "Chevrolet",
+      "modelo": "Onix",
+      "anioFabricacion": 2021,
+      "precioBase": 13000,
+      "kilometraje": 100,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 3,
+      "descuentoPromocional": 7
+    },
+
+    {
+      "id": 6,
+      "marca": "Yamaha",
+      "modelo": "XTZ 250",
+      "anioFabricacion": 2021,
+      "precioBase": 5200,
+      "kilometraje": 1500,
+      "tipo": "Moto",
+      "cilindradaCc": 250,
+      "tipoManejo": "off-road"
+    },
+    {
+      "id": 7,
+      "marca": "Honda",
+      "modelo": "CB500X",
+      "anioFabricacion": 2020,
+      "precioBase": 6900,
+      "kilometraje": 2000,
+      "tipo": "Moto",
+      "cilindradaCc": 500,
+      "tipoManejo": "mixto"
+    },
+    {
+      "id": 8,
+      "marca": "Suzuki",
+      "modelo": "GSX250R",
+      "anioFabricacion": 2019,
+      "precioBase": 4700,
+      "kilometraje": 5000,
+      "tipo": "Moto",
+      "cilindradaCc": 250,
+      "tipoManejo": "urbano"
+    },
+    {
+      "id": 9,
+      "marca": "Kawasaki",
+      "modelo": "Versys 300",
+      "anioFabricacion": 2022,
+      "precioBase": 7200,
+      "kilometraje": 1200,
+      "tipo": "Moto",
+      "cilindradaCc": 300,
+      "tipoManejo": "mixto"
+    },
+    {
+      "id": 10,
+      "marca": "Bajaj",
+      "modelo": "Dominar 400",
+      "anioFabricacion": 2021,
+      "precioBase": 4100,
+      "kilometraje": 3500,
+      "tipo": "Moto",
+      "cilindradaCc": 400,
+      "tipoManejo": "urbano"
+    },
+
+    {
+      "id": 11,
+      "marca": "KTM",
+      "modelo": "Duke 390",
+      "anioFabricacion": 2020,
+      "precioBase": 5800,
+      "kilometraje": 4000,
+      "tipo": "MotoModificada",
+      "cilindradaCc": 390,
+      "tipoManejo": "urbano",
+      "tipoModificacion": "escape"
+    },
+    {
+      "id": 12,
+      "marca": "Honda",
+      "modelo": "CBR 600",
+      "anioFabricacion": 2018,
+      "precioBase": 10000,
+      "kilometraje": 7000,
+      "tipo": "MotoModificada",
+      "cilindradaCc": 600,
+      "tipoManejo": "urbano",
+      "tipoModificacion": "motor"
+    },
+    {
+      "id": 13,
+      "marca": "Yamaha",
+      "modelo": "FZ-09",
+      "anioFabricacion": 2019,
+      "precioBase": 8500,
+      "kilometraje": 6000,
+      "tipo": "MotoModificada",
+      "cilindradaCc": 850,
+      "tipoManejo": "mixto",
+      "tipoModificacion": "estetica"
+    },
+    {
+      "id": 14,
+      "marca": "Kawasaki",
+      "modelo": "Z650",
+      "anioFabricacion": 2020,
+      "precioBase": 7300,
+      "kilometraje": 2500,
+      "tipo": "MotoModificada",
+      "cilindradaCc": 650,
+      "tipoManejo": "urbano",
+      "tipoModificacion": "escape"
+    },
+    {
+      "id": 15,
+      "marca": "Suzuki",
+      "modelo": "SV650",
+      "anioFabricacion": 2021,
+      "precioBase": 7800,
+      "kilometraje": 3200,
+      "tipo": "MotoModificada",
+      "cilindradaCc": 650,
+      "tipoManejo": "mixto",
+      "tipoModificacion": "estetica"
+    },
+
+    {
+      "id": 16,
+      "marca": "Volkswagen",
+      "modelo": "Polo",
+      "anioFabricacion": 2022,
+      "precioBase": 15500,
+      "kilometraje": 0,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 3,
+      "descuentoPromocional": 6
+    },
+    {
+      "id": 17,
+      "marca": "Renault",
+      "modelo": "Sandero",
+      "anioFabricacion": 2021,
+      "precioBase": 12500,
+      "kilometraje": 0,
+      "tipo": "AutoNuevo",
+      "garantiaAnios": 2,
+      "descuentoPromocional": 9
+    },
+    {
+      "id": 18,
+      "marca": "TVS",
+      "modelo": "Apache RTR",
+      "anioFabricacion": 2020,
+      "precioBase": 3200,
+      "kilometraje": 4200,
+      "tipo": "Moto",
+      "cilindradaCc": 200,
+      "tipoManejo": "urbano"
+    },
+    {
+      "id": 19,
+      "marca": "Benelli",
+      "modelo": "Leoncino 500",
+      "anioFabricacion": 2021,
+      "precioBase": 6200,
+      "kilometraje": 1900,
+      "tipo": "Moto",
+      "cilindradaCc": 500,
+      "tipoManejo": "mixto"
+    },
+    {
+      "id": 20,
+      "marca": "CFMoto",
+      "modelo": "650NK",
+      "anioFabricacion": 2022,
+      "precioBase": 7000,
+      "kilometraje": 2100,
+      "tipo": "MotoModificada",
+      "cilindradaCc": 650,
+      "tipoManejo": "urbano",
+      "tipoModificacion": "motor"
+    }
+  ]
+}

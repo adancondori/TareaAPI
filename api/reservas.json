@@ -1,0 +1,197 @@
+{
+  "page": 1,
+  "total": 20,
+  "status": "ok",
+  "reservas": [
+      {
+      "codigo": "H001",
+      "cliente": "Luc\u00eda Fern\u00e1ndez",
+      "fechaEntrada": "2025-06-01",
+      "fechaSalida": "2025-06-05",
+      "precioTotal": 500,
+      "tipo": "ReservaHotel",
+      "tipoHabitacion": "Doble",
+      "incluyeDesayuno": true,
+      "numeroHuespedes": 2
+      },
+      {
+      "codigo": "H002",
+      "cliente": "Carlos Medina",
+      "fechaEntrada": "2025-06-10",
+      "fechaSalida": "2025-06-12",
+      "precioTotal": 300,
+      "tipo": "ReservaHotel",
+      "tipoHabitacion": "Individual",
+      "incluyeDesayuno": false,
+      "numeroHuespedes": 1
+      },
+      {
+      "codigo": "H003",
+      "cliente": "Valentina R\u00edos",
+      "fechaEntrada": "2025-06-15",
+      "fechaSalida": "2025-06-20",
+      "precioTotal": 750,
+      "tipo": "ReservaHotel",
+      "tipoHabitacion": "Suite",
+      "incluyeDesayuno": true,
+      "numeroHuespedes": 3
+      },
+      {
+      "codigo": "H004",
+      "cliente": "Fernando Ruiz",
+      "fechaEntrada": "2025-07-01",
+      "fechaSalida": "2025-07-03",
+      "precioTotal": 400,
+      "tipo": "ReservaHotel",
+      "tipoHabitacion": "Doble",
+      "incluyeDesayuno": false,
+      "numeroHuespedes": 2
+      },
+      {
+      "codigo": "H005",
+      "cliente": "Mariana Torres",
+      "fechaEntrada": "2025-07-05",
+      "fechaSalida": "2025-07-08",
+      "precioTotal": 600,
+      "tipo": "ReservaHotel",
+      "tipoHabitacion": "Triple",
+      "incluyeDesayuno": true,
+      "numeroHuespedes": 3
+      },
+      {
+      "codigo": "C001",
+      "cliente": "Sebasti\u00e1n G\u00f3mez",
+      "fechaEntrada": "2025-08-01",
+      "fechaSalida": "2025-08-06",
+      "precioTotal": 800,
+      "tipo": "ReservaCabana",
+      "metrosCuadrados": 45,
+      "tieneChimenea": true,
+      "capacidadMaxima": 4
+      },
+      {
+      "codigo": "C002",
+      "cliente": "Isabela Moreno",
+      "fechaEntrada": "2025-08-10",
+      "fechaSalida": "2025-08-15",
+      "precioTotal": 950,
+      "tipo": "ReservaCabana",
+      "metrosCuadrados": 55,
+      "tieneChimenea": true,
+      "capacidadMaxima": 5
+      },
+      {
+      "codigo": "C003",
+      "cliente": "Mart\u00edn Aguilar",
+      "fechaEntrada": "2025-08-20",
+      "fechaSalida": "2025-08-25",
+      "precioTotal": 870,
+      "tipo": "ReservaCabana",
+      "metrosCuadrados": 50,
+      "tieneChimenea": false,
+      "capacidadMaxima": 4
+      },
+      {
+      "codigo": "C004",
+      "cliente": "Camila D\u00edaz",
+      "fechaEntrada": "2025-09-01",
+      "fechaSalida": "2025-09-04",
+      "precioTotal": 620,
+      "tipo": "ReservaCabana",
+      "metrosCuadrados": 48,
+      "tieneChimenea": true,
+      "capacidadMaxima": 3
+      },
+      {
+      "codigo": "C005",
+      "cliente": "Diego Vargas",
+      "fechaEntrada": "2025-09-10",
+      "fechaSalida": "2025-09-13",
+      "precioTotal": 700,
+      "tipo": "ReservaCabana",
+      "metrosCuadrados": 52,
+      "tieneChimenea": false,
+      "capacidadMaxima": 4
+      },
+      {
+      "codigo": "G001",
+      "cliente": "Elena Castro",
+      "fechaEntrada": "2025-10-01",
+      "fechaSalida": "2025-10-04",
+      "precioTotal": 680,
+      "tipo": "ReservaGlamping",
+      "metrosCuadrados": 40,
+      "tieneChimenea": true,
+      "capacidadMaxima": 2,
+      "tipoExperiencia": "Rom\u00e1ntica",
+      "actividadesIncluidas": [
+          "Cena bajo estrellas",
+          "Senderismo"
+      ]
+      },
+      {
+      "codigo": "G002",
+      "cliente": "\u00c1lvaro Pe\u00f1a",
+      "fechaEntrada": "2025-10-07",
+      "fechaSalida": "2025-10-10",
+      "precioTotal": 750,
+      "tipo": "ReservaGlamping",
+      "metrosCuadrados": 42,
+      "tieneChimenea": false,
+      "capacidadMaxima": 3,
+      "tipoExperiencia": "Aventura",
+      "actividadesIncluidas": [
+          "Rafting",
+          "Escalada"
+      ]
+      },
+      {
+      "codigo": "G003",
+      "cliente": "Patricia Le\u00f3n",
+      "fechaEntrada": "2025-10-12",
+      "fechaSalida": "2025-10-15",
+      "precioTotal": 800,
+      "tipo": "ReservaGlamping",
+      "metrosCuadrados": 45,
+      "tieneChimenea": true,
+      "capacidadMaxima": 4,
+      "tipoExperiencia": "Relax",
+      "actividadesIncluidas": [
+          "Yoga",
+          "Masajes"
+      ]
+      },
+      {
+      "codigo": "G004",
+      "cliente": "Jorge Silva",
+      "fechaEntrada": "2025-10-20",
+      "fechaSalida": "2025-10-22",
+      "precioTotal": 690,
+      "tipo": "ReservaGlamping",
+      "metrosCuadrados": 38,
+      "tieneChimenea": true,
+      "capacidadMaxima": 2,
+      "tipoExperiencia": "Exploraci\u00f3n",
+      "actividadesIncluidas": [
+          "Safari fotogr\u00e1fico",
+          "Tirolesa"
+      ]
+      },
+      {
+      "codigo": "G005",
+      "cliente": "Daniela Correa",
+      "fechaEntrada": "2025-10-25",
+      "fechaSalida": "2025-10-28",
+      "precioTotal": 820,
+      "tipo": "ReservaGlamping",
+      "metrosCuadrados": 47,
+      "tieneChimenea": false,
+      "capacidadMaxima": 3,
+      "tipoExperiencia": "Naturaleza",
+      "actividadesIncluidas": [
+          "Avistamiento de aves",
+          "Fogata"
+      ]
+      }
+  ]
+}
