@@ -12,7 +12,14 @@
       "tipo": "Gerente",
       "departamento": "Ventas",
       "bonoAnual": 2000,
-      "cantidadSubordinados": 8
+      "cantidadSubordinados": 8,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 2,
@@ -23,7 +30,14 @@
       "tipo": "Gerente",
       "departamento": "Marketing",
       "bonoAnual": 2200,
-      "cantidadSubordinados": 6
+      "cantidadSubordinados": 6,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 3,
@@ -34,7 +48,14 @@
       "tipo": "Gerente",
       "departamento": "Operaciones",
       "bonoAnual": 2500,
-      "cantidadSubordinados": 10
+      "cantidadSubordinados": 10,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 4,
@@ -45,7 +66,14 @@
       "tipo": "Gerente",
       "departamento": "Logística",
       "bonoAnual": 1800,
-      "cantidadSubordinados": 5
+      "cantidadSubordinados": 5,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 5,
@@ -56,7 +84,14 @@
       "tipo": "Gerente",
       "departamento": "Recursos Humanos",
       "bonoAnual": 2300,
-      "cantidadSubordinados": 7
+      "cantidadSubordinados": 7,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 6,
@@ -67,7 +102,14 @@
       "tipo": "Gerente",
       "departamento": "Finanzas",
       "bonoAnual": 2100,
-      "cantidadSubordinados": 4
+      "cantidadSubordinados": 4,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
 
     {
@@ -79,7 +121,14 @@
       "tipo": "Tecnico",
       "especialidad": "Redes",
       "nivelCertificacion": "CCNA",
-      "horasExtra": 12
+      "horasExtra": 12,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 8,
@@ -90,7 +139,14 @@
       "tipo": "Tecnico",
       "especialidad": "Soporte Técnico",
       "nivelCertificacion": "CompTIA A+",
-      "horasExtra": 10
+      "horasExtra": 10,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 9,
@@ -101,7 +157,14 @@
       "tipo": "Tecnico",
       "especialidad": "Seguridad Informática",
       "nivelCertificacion": "CEH",
-      "horasExtra": 15
+      "horasExtra": 15,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 10,
@@ -112,7 +175,14 @@
       "tipo": "Tecnico",
       "especialidad": "Infraestructura",
       "nivelCertificacion": "AWS Practitioner",
-      "horasExtra": 8
+      "horasExtra": 8,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 11,
@@ -123,7 +193,14 @@
       "tipo": "Tecnico",
       "especialidad": "Base de Datos",
       "nivelCertificacion": "Oracle Certified",
-      "horasExtra": 11
+      "horasExtra": 11,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 12,
@@ -134,7 +211,14 @@
       "tipo": "Tecnico",
       "especialidad": "Soporte",
       "nivelCertificacion": "ITIL",
-      "horasExtra": 14
+      "horasExtra": 14,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 13,
@@ -145,7 +229,14 @@
       "tipo": "Tecnico",
       "especialidad": "Testing",
       "nivelCertificacion": "ISTQB",
-      "horasExtra": 9
+      "horasExtra": 9,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
 
     {
@@ -159,7 +250,14 @@
       "nivelCertificacion": "Java",
       "horasExtra": 7,
       "proyectosCompletados": 12,
-      "clientesAtendidos": 20
+      "clientesAtendidos": 20,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 15,
@@ -172,7 +270,14 @@
       "nivelCertificacion": "React",
       "horasExtra": 10,
       "proyectosCompletados": 15,
-      "clientesAtendidos": 25
+      "clientesAtendidos": 25,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 16,
@@ -185,7 +290,14 @@
       "nivelCertificacion": "MERN",
       "horasExtra": 6,
       "proyectosCompletados": 18,
-      "clientesAtendidos": 22
+      "clientesAtendidos": 22,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 17,
@@ -198,7 +310,14 @@
       "nivelCertificacion": "Docker/K8s",
       "horasExtra": 5,
       "proyectosCompletados": 20,
-      "clientesAtendidos": 30
+      "clientesAtendidos": 30,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 18,
@@ -211,7 +330,14 @@
       "nivelCertificacion": "Android Java",
       "horasExtra": 9,
       "proyectosCompletados": 10,
-      "clientesAtendidos": 18
+      "clientesAtendidos": 18,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 19,
@@ -224,7 +350,14 @@
       "nivelCertificacion": "Advanced ISTQB",
       "horasExtra": 8,
       "proyectosCompletados": 14,
-      "clientesAtendidos": 19
+      "clientesAtendidos": 19,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     },
     {
       "id": 20,

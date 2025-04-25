@@ -12,7 +12,14 @@
       "tipo": "ReservaHotel",
       "tipoHabitacion": "Doble",
       "incluyeDesayuno": true,
-      "numeroHuespedes": 2
+      "numeroHuespedes": 2,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "H002",
@@ -23,7 +30,14 @@
       "tipo": "ReservaHotel",
       "tipoHabitacion": "Individual",
       "incluyeDesayuno": false,
-      "numeroHuespedes": 1
+      "numeroHuespedes": 1,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "H003",
@@ -34,7 +48,14 @@
       "tipo": "ReservaHotel",
       "tipoHabitacion": "Suite",
       "incluyeDesayuno": true,
-      "numeroHuespedes": 3
+      "numeroHuespedes": 3,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "H004",
@@ -45,7 +66,14 @@
       "tipo": "ReservaHotel",
       "tipoHabitacion": "Doble",
       "incluyeDesayuno": false,
-      "numeroHuespedes": 2
+      "numeroHuespedes": 2,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "H005",
@@ -56,7 +84,14 @@
       "tipo": "ReservaHotel",
       "tipoHabitacion": "Triple",
       "incluyeDesayuno": true,
-      "numeroHuespedes": 3
+      "numeroHuespedes": 3,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "C001",
@@ -67,7 +102,14 @@
       "tipo": "ReservaCabana",
       "metrosCuadrados": 45,
       "tieneChimenea": true,
-      "capacidadMaxima": 4
+      "capacidadMaxima": 4,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "C002",
@@ -78,7 +120,14 @@
       "tipo": "ReservaCabana",
       "metrosCuadrados": 55,
       "tieneChimenea": true,
-      "capacidadMaxima": 5
+      "capacidadMaxima": 5,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "C003",
@@ -89,7 +138,14 @@
       "tipo": "ReservaCabana",
       "metrosCuadrados": 50,
       "tieneChimenea": false,
-      "capacidadMaxima": 4
+      "capacidadMaxima": 4,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "C004",
@@ -100,7 +156,14 @@
       "tipo": "ReservaCabana",
       "metrosCuadrados": 48,
       "tieneChimenea": true,
-      "capacidadMaxima": 3
+      "capacidadMaxima": 3,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "C005",
@@ -111,7 +174,14 @@
       "tipo": "ReservaCabana",
       "metrosCuadrados": 52,
       "tieneChimenea": false,
-      "capacidadMaxima": 4
+      "capacidadMaxima": 4,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "G001",
@@ -127,7 +197,14 @@
       "actividadesIncluidas": [
           "Cena bajo estrellas",
           "Senderismo"
-      ]
+      ],
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "G002",
@@ -143,7 +220,14 @@
       "actividadesIncluidas": [
           "Rafting",
           "Escalada"
-      ]
+      ],
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "G003",
@@ -159,7 +243,14 @@
       "actividadesIncluidas": [
           "Yoga",
           "Masajes"
-      ]
+      ],
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "G004",
@@ -175,7 +266,14 @@
       "actividadesIncluidas": [
           "Safari fotogr\u00e1fico",
           "Tirolesa"
-      ]
+      ],
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
       },
       {
       "codigo": "G005",
