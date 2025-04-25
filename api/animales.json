@@ -34,10 +34,10 @@
       "tiempoGestacion": 105,
       "alimentacion": "Carnivoro",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 25,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "65 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "1.1 m" }
         ]
       }
     },
@@ -53,10 +53,10 @@
       "tiempoGestacion": 240,
       "alimentacion": "Carnivoro",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 30,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "35 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "2.5 m" }
         ]
       }
     },
@@ -72,10 +72,10 @@
       "tiempoGestacion": 257,
       "alimentacion": "Herbivoro",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 40,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "25 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "1.8 m" }
         ]
       }
     },
@@ -91,10 +91,10 @@
       "tiempoGestacion": 365,
       "alimentacion": "Carnivoro",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 45,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "37 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "2.4 m" }
         ]
       }
     },
@@ -110,10 +110,10 @@
       "colorPlumaje": "Azul intenso",
       "tipoPico": "Curvo",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 50,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "55 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "90 cm" }
         ]
       }
     },
@@ -129,10 +129,10 @@
       "colorPlumaje": "Rosa",
       "tipoPico": "Filtrador",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 35,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "60 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "1.3 m" }
         ]
       }
     },
@@ -148,10 +148,10 @@
       "colorPlumaje": "Blanco y negro",
       "tipoPico": "Recto",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 20,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "9 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "1.2 m" }
         ]
       }
     },
@@ -167,10 +167,10 @@
       "colorPlumaje": "Blanco",
       "tipoPico": "Curvo",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 60,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "48 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "45 cm" }
         ]
       }
     },
@@ -186,10 +186,10 @@
       "colorPlumaje": "Multicolor",
       "tipoPico": "Curvo",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 15,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "32 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "35 cm" }
         ]
       }
     },
@@ -207,10 +207,10 @@
       "velocidadVuelo": 240,
       "tipoPresa": "Roedores",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 25,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "130 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "85 cm" }
         ]
       }
     },
@@ -228,10 +228,10 @@
       "velocidadVuelo": 389,
       "tipoPresa": "Aves peque\u00f1as",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 18,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "389 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "50 cm" }
         ]
       }
     },
@@ -249,10 +249,10 @@
       "velocidadVuelo": 80,
       "tipoPresa": "Peque\u00f1os mam\u00edferos",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 22,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "80 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "65 cm" }
         ]
       }
     },
@@ -270,10 +270,10 @@
       "velocidadVuelo": 90,
       "tipoPresa": "Carro\u00f1a",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 75,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "90 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "1.2 m" }
         ]
       }
     },
@@ -291,10 +291,10 @@
       "velocidadVuelo": 120,
       "tipoPresa": "Peces",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 28,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Velocidad máxima", "valor": "120 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "55 cm" }
         ]
       }
     }

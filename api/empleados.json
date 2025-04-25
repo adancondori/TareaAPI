@@ -14,10 +14,10 @@
       "bonoAnual": 2000,
       "cantidadSubordinados": 8,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 85,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Años experiencia", "valor": "12 años" },
+          { "nombreDato": "Educación", "valor": "MBA en Marketing" }
         ]
       }
     },
@@ -32,10 +32,10 @@
       "bonoAnual": 2200,
       "cantidadSubordinados": 6,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 82,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Años experiencia", "valor": "15 años" },
+          { "nombreDato": "Educación", "valor": "Maestría en Publicidad" }
         ]
       }
     },
@@ -50,10 +50,10 @@
       "bonoAnual": 2500,
       "cantidadSubordinados": 10,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 83,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Años experiencia", "valor": "10 años" },
+          { "nombreDato": "Educación", "valor": "Doctorado en Gestión" }
         ]
       }
     },
@@ -68,10 +68,10 @@
       "bonoAnual": 1800,
       "cantidadSubordinados": 5,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 80,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Años experiencia", "valor": "8 años" },
+          { "nombreDato": "Educación", "valor": "Licenciatura en Logística" }
         ]
       }
     },
@@ -86,10 +86,10 @@
       "bonoAnual": 2300,
       "cantidadSubordinados": 7,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 84,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Años experiencia", "valor": "14 años" },
+          { "nombreDato": "Educación", "valor": "Maestría en RRHH" }
         ]
       }
     },
@@ -104,10 +104,10 @@
       "bonoAnual": 2100,
       "cantidadSubordinados": 4,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 81,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Años experiencia", "valor": "9 años" },
+          { "nombreDato": "Educación", "valor": "MBA en Finanzas" }
         ]
       }
     },
@@ -123,10 +123,10 @@
       "nivelCertificacion": "CCNA",
       "horasExtra": 12,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 79,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "3 certificaciones" },
+          { "nombreDato": "Idiomas", "valor": "Inglés y Portugués" }
         ]
       }
     },
@@ -141,10 +141,10 @@
       "nivelCertificacion": "CompTIA A+",
       "horasExtra": 10,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 78,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "2 certificaciones" },
+          { "nombreDato": "Idiomas", "valor": "Inglés" }
         ]
       }
     },
@@ -159,10 +159,10 @@
       "nivelCertificacion": "CEH",
       "horasExtra": 15,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 80,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "4 certificaciones" },
+          { "nombreDato": "Idiomas", "valor": "Inglés y Francés" }
         ]
       }
     },
@@ -177,10 +177,10 @@
       "nivelCertificacion": "AWS Practitioner",
       "horasExtra": 8,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 77,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "1 certificación" },
+          { "nombreDato": "Idiomas", "valor": "Inglés básico" }
         ]
       }
     },
@@ -195,10 +195,10 @@
       "nivelCertificacion": "Oracle Certified",
       "horasExtra": 11,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 81,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "5 certificaciones" },
+          { "nombreDato": "Idiomas", "valor": "Inglés y Alemán" }
         ]
       }
     },
@@ -213,10 +213,10 @@
       "nivelCertificacion": "ITIL",
       "horasExtra": 14,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 78,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "2 certificaciones" },
+          { "nombreDato": "Idiomas", "valor": "Inglés avanzado" }
         ]
       }
     },
@@ -231,10 +231,10 @@
       "nivelCertificacion": "ISTQB",
       "horasExtra": 9,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 80,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Certificaciones", "valor": "3 certificaciones" },
+          { "nombreDato": "Idiomas", "valor": "Inglés e Italiano" }
         ]
       }
     },
@@ -252,10 +252,10 @@
       "proyectosCompletados": 12,
       "clientesAtendidos": 20,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 82,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "Spring, Hibernate" },
+          { "nombreDato": "Años experiencia", "valor": "7 años" }
         ]
       }
     },
@@ -272,10 +272,10 @@
       "proyectosCompletados": 15,
       "clientesAtendidos": 25,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 84,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "React, Angular, Vue" },
+          { "nombreDato": "Años experiencia", "valor": "8 años" }
         ]
       }
     },
@@ -292,10 +292,10 @@
       "proyectosCompletados": 18,
       "clientesAtendidos": 22,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 83,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "MERN, Django" },
+          { "nombreDato": "Años experiencia", "valor": "10 años" }
         ]
       }
     },
@@ -312,10 +312,10 @@
       "proyectosCompletados": 20,
       "clientesAtendidos": 30,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 82,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "Jenkins, Terraform" },
+          { "nombreDato": "Años experiencia", "valor": "6 años" }
         ]
       }
     },
@@ -332,10 +332,10 @@
       "proyectosCompletados": 10,
       "clientesAtendidos": 18,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 81,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "Android SDK, React Native" },
+          { "nombreDato": "Años experiencia", "valor": "5 años" }
         ]
       }
     },
@@ -352,10 +352,10 @@
       "proyectosCompletados": 14,
       "clientesAtendidos": 19,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 79,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "Selenium, JUnit" },
+          { "nombreDato": "Años experiencia", "valor": "7 años" }
         ]
       }
     },
@@ -372,10 +372,10 @@
       "proyectosCompletados": 11,
       "clientesAtendidos": 17,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 80,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Frameworks", "valor": "Hadoop, Spark" },
+          { "nombreDato": "Años experiencia", "valor": "4 años" }
         ]
       }
     }

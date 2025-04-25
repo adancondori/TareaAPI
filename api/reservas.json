@@ -14,10 +14,10 @@
       "incluyeDesayuno": true,
       "numeroHuespedes": 2,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 4,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Servicios extra", "valor": "Spa y piscina" },
+          { "nombreDato": "Vista", "valor": "Mar" }
         ]
       }
       },
@@ -32,10 +32,10 @@
       "incluyeDesayuno": false,
       "numeroHuespedes": 1,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 2,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Servicios extra", "valor": "Wi-Fi premium" },
+          { "nombreDato": "Vista", "valor": "Ciudad" }
         ]
       }
       },
@@ -50,10 +50,10 @@
       "incluyeDesayuno": true,
       "numeroHuespedes": 3,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 5,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Servicios extra", "valor": "Jacuzzi y bar privado" },
+          { "nombreDato": "Vista", "valor": "Panorámica" }
         ]
       }
       },
@@ -68,10 +68,10 @@
       "incluyeDesayuno": false,
       "numeroHuespedes": 2,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 2,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Servicios extra", "valor": "Gimnasio" },
+          { "nombreDato": "Vista", "valor": "Jardín" }
         ]
       }
       },
@@ -86,10 +86,10 @@
       "incluyeDesayuno": true,
       "numeroHuespedes": 3,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 3,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Servicios extra", "valor": "Sala de juegos" },
+          { "nombreDato": "Vista", "valor": "Piscina" }
         ]
       }
       },
@@ -104,10 +104,10 @@
       "tieneChimenea": true,
       "capacidadMaxima": 4,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 5,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Entorno", "valor": "Bosque" },
+          { "nombreDato": "Distancia ciudad", "valor": "12 km" }
         ]
       }
       },
@@ -122,10 +122,10 @@
       "tieneChimenea": true,
       "capacidadMaxima": 5,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 5,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Entorno", "valor": "Lago" },
+          { "nombreDato": "Distancia ciudad", "valor": "8 km" }
         ]
       }
       },
@@ -140,10 +140,10 @@
       "tieneChimenea": false,
       "capacidadMaxima": 4,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 5,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Entorno", "valor": "Montaña" },
+          { "nombreDato": "Distancia ciudad", "valor": "15 km" }
         ]
       }
       },
@@ -158,10 +158,10 @@
       "tieneChimenea": true,
       "capacidadMaxima": 3,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 3,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Entorno", "valor": "Río" },
+          { "nombreDato": "Distancia ciudad", "valor": "5 km" }
         ]
       }
       },
@@ -176,10 +176,10 @@
       "tieneChimenea": false,
       "capacidadMaxima": 4,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 3,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Entorno", "valor": "Pradera" },
+          { "nombreDato": "Distancia ciudad", "valor": "10 km" }
         ]
       }
       },
@@ -199,10 +199,10 @@
           "Senderismo"
       ],
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 3,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Tipo alojamiento", "valor": "Cúpula" },
+          { "nombreDato": "Comodidades", "valor": "Cama king size" }
         ]
       }
       },
@@ -222,10 +222,10 @@
           "Escalada"
       ],
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 3,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Tipo alojamiento", "valor": "Tienda safari" },
+          { "nombreDato": "Comodidades", "valor": "Ducha exterior" }
         ]
       }
       },
@@ -245,10 +245,10 @@
           "Masajes"
       ],
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 3,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Tipo alojamiento", "valor": "Casa árbol" },
+          { "nombreDato": "Comodidades", "valor": "Sauna privada" }
         ]
       }
       },
@@ -268,10 +268,10 @@
           "Tirolesa"
       ],
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 2,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Tipo alojamiento", "valor": "Yurta" },
+          { "nombreDato": "Comodidades", "valor": "Telescopio" }
         ]
       }
       },
@@ -291,10 +291,10 @@
             "Fogata"
         ],
         "informacionAdicional": {
-          "esperanzaVida": 70,
+          "esperanzaVida": 3,
           "datos": [
-            { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-            { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+            { "nombreDato": "Tipo alojamiento", "valor": "Cabaña elevada" },
+            { "nombreDato": "Comodidades", "valor": "Hamaca panorámica" }
           ]
         }
       }

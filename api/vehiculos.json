@@ -14,10 +14,10 @@
       "garantiaAnios": 3,
       "descuentoPromocional": 10,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 15,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "5.2 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "132 HP" }
         ]
       }
     },
@@ -32,10 +32,10 @@
       "garantiaAnios": 2,
       "descuentoPromocional": 8,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 12,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "5.8 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "155 HP" }
         ]
       }
     },
@@ -50,10 +50,10 @@
       "garantiaAnios": 4,
       "descuentoPromocional": 5,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 13,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "5.5 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "120 HP" }
         ]
       }
     },
@@ -68,10 +68,10 @@
       "garantiaAnios": 3,
       "descuentoPromocional": 6,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 14,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "6.0 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "147 HP" }
         ]
       }
     },
@@ -86,10 +86,10 @@
       "garantiaAnios": 3,
       "descuentoPromocional": 7,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 12,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "5.9 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "116 HP" }
         ]
       }
     },
@@ -105,10 +105,10 @@
       "cilindradaCc": 250,
       "tipoManejo": "off-road",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 10,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "280 km" },
+          { "nombreDato": "Peso", "valor": "137 kg" }
         ]
       }
     },
@@ -123,10 +123,10 @@
       "cilindradaCc": 500,
       "tipoManejo": "mixto",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 12,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "400 km" },
+          { "nombreDato": "Peso", "valor": "196 kg" }
         ]
       }
     },
@@ -141,10 +141,10 @@
       "cilindradaCc": 250,
       "tipoManejo": "urbano",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 9,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "350 km" },
+          { "nombreDato": "Peso", "valor": "180 kg" }
         ]
       }
     },
@@ -159,10 +159,10 @@
       "cilindradaCc": 300,
       "tipoManejo": "mixto",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 11,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "380 km" },
+          { "nombreDato": "Peso", "valor": "175 kg" }
         ]
       }
     },
@@ -177,10 +177,10 @@
       "cilindradaCc": 400,
       "tipoManejo": "urbano",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 10,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "320 km" },
+          { "nombreDato": "Peso", "valor": "182 kg" }
         ]
       }
     },
@@ -197,10 +197,10 @@
       "tipoManejo": "urbano",
       "tipoModificacion": "escape",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 9,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Potencia", "valor": "43 HP" },
+          { "nombreDato": "Marca escape", "valor": "Akrapovic" }
         ]
       }
     },
@@ -216,10 +216,10 @@
       "tipoManejo": "urbano",
       "tipoModificacion": "motor",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 8,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Potencia", "valor": "120 HP" },
+          { "nombreDato": "Modificación", "valor": "Reprogramación ECU" }
         ]
       }
     },
@@ -235,10 +235,10 @@
       "tipoManejo": "mixto",
       "tipoModificacion": "estetica",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 10,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Potencia", "valor": "115 HP" },
+          { "nombreDato": "Modificación", "valor": "Carenado fibra carbono" }
         ]
       }
     },
@@ -254,10 +254,10 @@
       "tipoManejo": "urbano",
       "tipoModificacion": "escape",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 11,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Potencia", "valor": "68 HP" },
+          { "nombreDato": "Marca escape", "valor": "Yoshimura" }
         ]
       }
     },
@@ -273,10 +273,10 @@
       "tipoManejo": "mixto",
       "tipoModificacion": "estetica",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 10,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Potencia", "valor": "75 HP" },
+          { "nombreDato": "Modificación", "valor": "Pintura personalizada" }
         ]
       }
     },
@@ -292,10 +292,10 @@
       "garantiaAnios": 3,
       "descuentoPromocional": 6,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 14,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "5.0 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "115 HP" }
         ]
       }
     },
@@ -310,10 +310,10 @@
       "garantiaAnios": 2,
       "descuentoPromocional": 9,
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 12,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Consumo combustible", "valor": "6.2 L/100km" },
+          { "nombreDato": "Potencia motor", "valor": "90 HP" }
         ]
       }
     },
@@ -328,10 +328,10 @@
       "cilindradaCc": 200,
       "tipoManejo": "urbano",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 8,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "250 km" },
+          { "nombreDato": "Peso", "valor": "152 kg" }
         ]
       }
     },
@@ -346,10 +346,10 @@
       "cilindradaCc": 500,
       "tipoManejo": "mixto",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 9,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Autonomía", "valor": "300 km" },
+          { "nombreDato": "Peso", "valor": "186 kg" }
         ]
       }
     },
@@ -365,10 +365,10 @@
       "tipoManejo": "urbano",
       "tipoModificacion": "motor",
       "informacionAdicional": {
-        "esperanzaVida": 70,
+        "esperanzaVida": 10,
         "datos": [
-          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
-          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          { "nombreDato": "Potencia", "valor": "65 HP" },
+          { "nombreDato": "Modificación", "valor": "Kit admisión directa" }
         ]
       }
     }
