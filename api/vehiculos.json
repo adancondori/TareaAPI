@@ -363,7 +363,14 @@
       "tipo": "MotoModificada",
       "cilindradaCc": 650,
       "tipoManejo": "urbano",
-      "tipoModificacion": "motor"
+      "tipoModificacion": "motor",
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     }
   ]
 }

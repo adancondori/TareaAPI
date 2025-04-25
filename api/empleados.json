@@ -370,7 +370,14 @@
       "nivelCertificacion": "Spark",
       "horasExtra": 7,
       "proyectosCompletados": 11,
-      "clientesAtendidos": 17
+      "clientesAtendidos": 17,
+      "informacionAdicional": {
+        "esperanzaVida": 70,
+        "datos": [
+          { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+          { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+        ]
+      }
     }
   ]
 }

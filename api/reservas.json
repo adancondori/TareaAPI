@@ -276,20 +276,27 @@
       }
       },
       {
-      "codigo": "G005",
-      "cliente": "Daniela Correa",
-      "fechaEntrada": "2025-10-25",
-      "fechaSalida": "2025-10-28",
-      "precioTotal": 820,
-      "tipo": "ReservaGlamping",
-      "metrosCuadrados": 47,
-      "tieneChimenea": false,
-      "capacidadMaxima": 3,
-      "tipoExperiencia": "Naturaleza",
-      "actividadesIncluidas": [
-          "Avistamiento de aves",
-          "Fogata"
-      ]
+        "codigo": "G005",
+        "cliente": "Daniela Correa",
+        "fechaEntrada": "2025-10-25",
+        "fechaSalida": "2025-10-28",
+        "precioTotal": 820,
+        "tipo": "ReservaGlamping",
+        "metrosCuadrados": 47,
+        "tieneChimenea": false,
+        "capacidadMaxima": 3,
+        "tipoExperiencia": "Naturaleza",
+        "actividadesIncluidas": [
+            "Avistamiento de aves",
+            "Fogata"
+        ],
+        "informacionAdicional": {
+          "esperanzaVida": 70,
+          "datos": [
+            { "nombreDato": "Velocidad máxima", "valor": "40 km/h" },
+            { "nombreDato": "Altura promedio", "valor": "3.3 m" }
+          ]
+        }
       }
   ]
 }
