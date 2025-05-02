@@ -1,0 +1,367 @@
+{
+    "page": 1,
+    "total": 20,
+    "status": "ok",
+    "criptomonedas": [
+      {
+        "id": 1,
+        "nombre": "Bitcoin",
+        "simbolo": "BTC",
+        "anioCreacion": 2009,
+        "precioActual": 52389.75,
+        "capitalizacion": 1024860000000,
+        "tipo": "PoW",
+        "suministroMaximo": 21000000,
+        "hashrate": 415.2,
+        "informacionAdicional": {
+          "creador": "Satoshi Nakamoto",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "SHA-256" },
+            { "nombreDato": "Tiempo entre bloques", "valor": "10 minutos" }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "nombre": "Ethereum",
+        "simbolo": "ETH",
+        "anioCreacion": 2015,
+        "precioActual": 2843.62,
+        "capitalizacion": 341592000000,
+        "tipo": "PoS",
+        "suministroMaximo": 0,
+        "staking": 12.5,
+        "informacionAdicional": {
+          "creador": "Vitalik Buterin",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "Ethash (anteriormente)" },
+            { "nombreDato": "Smart Contracts", "valor": "Sí" }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "nombre": "Binance Coin",
+        "simbolo": "BNB",
+        "anioCreacion": 2017,
+        "precioActual": 543.21,
+        "capitalizacion": 84632000000,
+        "tipo": "PoSA",
+        "suministroMaximo": 200000000,
+        "quemaTokens": true,
+        "informacionAdicional": {
+          "creador": "Changpeng Zhao",
+          "datos": [
+            { "nombreDato": "Blockchain", "valor": "BNB Chain" },
+            { "nombreDato": "Utilidad", "valor": "Pago de comisiones en Binance" }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "nombre": "Cardano",
+        "simbolo": "ADA",
+        "anioCreacion": 2017,
+        "precioActual": 0.42,
+        "capitalizacion": 14856000000,
+        "tipo": "PoS",
+        "suministroMaximo": 45000000000,
+        "staking": 4.8,
+        "informacionAdicional": {
+          "creador": "Charles Hoskinson",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "Ouroboros" },
+            { "nombreDato": "Enfoque", "valor": "Desarrollo académico revisado por pares" }
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "nombre": "Solana",
+        "simbolo": "SOL",
+        "anioCreacion": 2020,
+        "precioActual": 143.72,
+        "capitalizacion": 61985000000,
+        "tipo": "PoS/PoH",
+        "suministroMaximo": 0,
+        "tps": 65000,
+        "informacionAdicional": {
+          "creador": "Anatoly Yakovenko",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "Proof of History" },
+            { "nombreDato": "Ventaja", "valor": "Alta velocidad de transacción" }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "nombre": "XRP",
+        "simbolo": "XRP",
+        "anioCreacion": 2012,
+        "precioActual": 0.51,
+        "capitalizacion": 28462000000,
+        "tipo": "Consenso",
+        "suministroMaximo": 100000000000,
+        "tps": 1500,
+        "informacionAdicional": {
+          "creador": "Ripple Labs",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "RPCA" },
+            { "nombreDato": "Enfoque", "valor": "Pagos transfronterizos" }
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "nombre": "Polkadot",
+        "simbolo": "DOT",
+        "anioCreacion": 2020,
+        "precioActual": 6.18,
+        "capitalizacion": 8957000000,
+        "tipo": "NPoS",
+        "suministroMaximo": 0,
+        "parachains": 32,
+        "informacionAdicional": {
+          "creador": "Gavin Wood",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "GRANDPA/BABE" },
+            { "nombreDato": "Característica", "valor": "Interoperabilidad entre blockchains" }
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "nombre": "Dogecoin",
+        "simbolo": "DOGE",
+        "anioCreacion": 2013,
+        "precioActual": 0.12,
+        "capitalizacion": 17316000000,
+        "tipo": "PoW",
+        "suministroMaximo": 0,
+        "inflacion": 3.8,
+        "informacionAdicional": {
+          "creador": "Billy Markus y Jackson Palmer",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "Scrypt" },
+            { "nombreDato": "Origen", "valor": "Meme de internet" }
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "nombre": "Polygon",
+        "simbolo": "MATIC",
+        "anioCreacion": 2017,
+        "precioActual": 0.56,
+        "capitalizacion": 5492000000,
+        "tipo": "PoS",
+        "suministroMaximo": 10000000000,
+        "staking": 5.2,
+        "informacionAdicional": {
+          "creador": "Jaynti Kanani, Sandeep Nailwal y Anurag Arjun",
+          "datos": [
+            { "nombreDato": "Propósito", "valor": "Escalabilidad de Ethereum" },
+            { "nombreDato": "Tipo", "valor": "Capa 2" }
+          ]
+        }
+      },
+      {
+        "id": 10,
+        "nombre": "Avalanche",
+        "simbolo": "AVAX",
+        "anioCreacion": 2020,
+        "precioActual": 28.74,
+        "capitalizacion": 10926000000,
+        "tipo": "PoS",
+        "suministroMaximo": 720000000,
+        "tps": 4500,
+        "informacionAdicional": {
+          "creador": "Emin Gün Sirer",
+          "datos": [
+            { "nombreDato": "Consenso", "valor": "Avalanche" },
+            { "nombreDato": "Subredes", "valor": "Personalizables" }
+          ]
+        }
+      },
+      {
+        "id": 11,
+        "nombre": "Chainlink",
+        "simbolo": "LINK",
+        "anioCreacion": 2017,
+        "precioActual": 14.31,
+        "capitalizacion": 8472000000,
+        "tipo": "Oráculo",
+        "suministroMaximo": 1000000000,
+        "nodos": 285,
+        "informacionAdicional": {
+          "creador": "Sergey Nazarov",
+          "datos": [
+            { "nombreDato": "Función", "valor": "Oráculos descentralizados" },
+            { "nombreDato": "Compatibilidad", "valor": "Multichain" }
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "nombre": "Uniswap",
+        "simbolo": "UNI",
+        "anioCreacion": 2018,
+        "precioActual": 9.72,
+        "capitalizacion": 5845000000,
+        "tipo": "DeFi",
+        "suministroMaximo": 1000000000,
+        "tvl": 3700000000,
+        "informacionAdicional": {
+          "creador": "Hayden Adams",
+          "datos": [
+            { "nombreDato": "Tipo", "valor": "Exchange descentralizado" },
+            { "nombreDato": "Versión", "valor": "V3" }
+          ]
+        }
+      },
+      {
+        "id": 13,
+        "nombre": "Tether",
+        "simbolo": "USDT",
+        "anioCreacion": 2014,
+        "precioActual": 1.00,
+        "capitalizacion": 95823000000,
+        "tipo": "Stablecoin",
+        "suministroMaximo": 0,
+        "respaldo": "USD y otros activos",
+        "informacionAdicional": {
+          "creador": "Tether Limited",
+          "datos": [
+            { "nombreDato": "Estabilidad", "valor": "Anclada al dólar americano" },
+            { "nombreDato": "Plataformas", "valor": "Múltiples blockchains" }
+          ]
+        }
+      },
+      {
+        "id": 14,
+        "nombre": "Litecoin",
+        "simbolo": "LTC",
+        "anioCreacion": 2011,
+        "precioActual": 67.24,
+        "capitalizacion": 4982000000,
+        "tipo": "PoW",
+        "suministroMaximo": 84000000,
+        "tiempo_bloque": 2.5,
+        "informacionAdicional": {
+          "creador": "Charlie Lee",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "Scrypt" },
+            { "nombreDato": "Propósito", "valor": "Pagos rápidos y de bajo costo" }
+          ]
+        }
+      },
+      {
+        "id": 15,
+        "nombre": "Cosmos",
+        "simbolo": "ATOM",
+        "anioCreacion": 2019,
+        "precioActual": 7.51,
+        "capitalizacion": 2891000000,
+        "tipo": "PoS",
+        "suministroMaximo": 0,
+        "staking": 18.7,
+        "informacionAdicional": {
+          "creador": "Jae Kwon y Ethan Buchman",
+          "datos": [
+            { "nombreDato": "Tecnología", "valor": "Tendermint BFT" },
+            { "nombreDato": "Propósito", "valor": "Internet de blockchains" }
+          ]
+        }
+      },
+      {
+        "id": 16,
+        "nombre": "Shiba Inu",
+        "simbolo": "SHIB",
+        "anioCreacion": 2020,
+        "precioActual": 0.000018,
+        "capitalizacion": 10762000000,
+        "tipo": "Token",
+        "suministroMaximo": 999800000000000,
+        "quema": true,
+        "informacionAdicional": {
+          "creador": "Ryoshi (seudónimo)",
+          "datos": [
+            { "nombreDato": "Plataforma", "valor": "Ethereum" },
+            { "nombreDato": "Inspiración", "valor": "Dogecoin" }
+          ]
+        }
+      },
+      {
+        "id": 17,
+        "nombre": "Monero",
+        "simbolo": "XMR",
+        "anioCreacion": 2014,
+        "precioActual": 172.85,
+        "capitalizacion": 3176000000,
+        "tipo": "PoW",
+        "suministroMaximo": 0,
+        "privacidad": "alta",
+        "informacionAdicional": {
+          "creador": "Nicolas van Saberhagen (seudónimo)",
+          "datos": [
+            { "nombreDato": "Algoritmo", "valor": "RandomX" },
+            { "nombreDato": "Característica", "valor": "Transacciones privadas" }
+          ]
+        }
+      },
+      {
+        "id": 18,
+        "nombre": "Algorand",
+        "simbolo": "ALGO",
+        "anioCreacion": 2019,
+        "precioActual": 0.15,
+        "capitalizacion": 1189000000,
+        "tipo": "PPoS",
+        "suministroMaximo": 10000000000,
+        "tps": 1000,
+        "informacionAdicional": {
+          "creador": "Silvio Micali",
+          "datos": [
+            { "nombreDato": "Consenso", "valor": "Pure Proof of Stake" },
+            { "nombreDato": "Ventaja", "valor": "No hay bifurcaciones (forks)" }
+          ]
+        }
+      },
+      {
+        "id": 19,
+        "nombre": "Stellar",
+        "simbolo": "XLM",
+        "anioCreacion": 2014,
+        "precioActual": 0.11,
+        "capitalizacion": 3172000000,
+        "tipo": "SCP",
+        "suministroMaximo": 50000000000,
+        "tps": 1000,
+        "informacionAdicional": {
+          "creador": "Jed McCaleb",
+          "datos": [
+            { "nombreDato": "Consenso", "valor": "Stellar Consensus Protocol" },
+            { "nombreDato": "Propósito", "valor": "Pagos transfronterizos" }
+          ]
+        }
+      },
+      {
+        "id": 20,
+        "nombre": "Tron",
+        "simbolo": "TRX",
+        "anioCreacion": 2017,
+        "precioActual": 0.14,
+        "capitalizacion": 12862000000,
+        "tipo": "DPoS",
+        "suministroMaximo": 100800000000,
+        "tps": 2000,
+        "informacionAdicional": {
+          "creador": "Justin Sun",
+          "datos": [
+            { "nombreDato": "Consenso", "valor": "Delegated Proof of Stake" },
+            { "nombreDato": "Enfoque", "valor": "Entretenimiento y contenido digital" }
+          ]
+        }
+      }
+    ]
+  }
